@@ -16,4 +16,4 @@ metadata:
   creationTimestamp: "2025-03-14T01:43:26Z"
   name: aws-auth
   namespace: kube-system
-  uid: 50845162-1701-4375-9fdd-e93f835164a1
+  uid: aabc45ab-ac06-4adf-8cdc-20e770f4475c
