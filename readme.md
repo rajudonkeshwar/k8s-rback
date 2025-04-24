@@ -41,3 +41,6 @@ mail suresh about his config is done, he can login
 "" aws sts get-caller-identity --profile raju "", using this command we can check whether user suresh successfully log in or not to the server 
 
 aws eks update-kubeconfig --region us-east-1 --name expense
+
+
+kubectl get configmap aws-auth -n kube-system -o yaml ==> to get confgimap.yaml
